@@ -1,9 +1,5 @@
       **********************************************************
       * COBVALU                                                *
-      *                                                        *
-      * A simple subprogram that calculates present value      *
-      * for a series of cash flows.                            *
-      *                                                        *
       **********************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. COBVALU.

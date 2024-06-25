@@ -1,9 +1,9 @@
       **********************************************************
       * COBCALC                                                *
-      *                                                        *
-      * A simple program that allows financial functions to    *
-      * be performed using intrinsic functions.                *
-      *                                                        *
+      **********************************************************
+      * A sample program that demonstrates basic financial	   *
+      * functions, such as getting a monthly payment.  This    *
+      * also demonstrates the use of calling other files.      *
       **********************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. COBCALC.

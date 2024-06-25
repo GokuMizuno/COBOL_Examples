@@ -1,9 +1,8 @@
       **********************************************************
       * COBLOAN                                                *
-      *                                                        *
+      **********************************************************
       * A simple subprogram that calculates payment amount     *
       * for a loan.                                            *
-      *                                                        *
       **********************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. COBLOAN.
